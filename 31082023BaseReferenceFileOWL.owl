@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="https://raw.githubusercontent.com/ProjetoS2C2Redes/S2C2-TestReferenceFiles/main/31082023BaseReferenceFileOWL.owl#"
-     xml:base="https://raw.githubusercontent.com/ProjetoS2C2Redes/S2C2-TestReferenceFiles/main/31082023BaseReferenceFileOWL.owl"
+<rdf:RDF xmlns="http://myontology.com/scenario#"
+     xml:base="http://myontology.com/scenario"
      xmlns:p0="http://example.com#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
