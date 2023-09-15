@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <rdf:RDF xmlns="#"
-     xml:base="http://myontology.com/scenario"
+     xml:base="https://raw.githubusercontent.com/ProjetoS2C2Redes/S2C2-TestReferenceFiles/main/150923OWLReferenceFile.owl"
      xmlns:p0="#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -12,7 +12,7 @@
      xmlns:gufo1="http://purl.org/nemo/gufo#"
      xmlns:swrla="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#"
      xmlns:swrlb="http://www.w3.org/2003/11/swrlb#">
-    <owl:Ontology rdf:about="http://myontology.com/scenario"/>
+    <owl:Ontology rdf:about="https://raw.githubusercontent.com/ProjetoS2C2Redes/S2C2-TestReferenceFiles/main/150923OWLReferenceFile.owl"/>
     
 
 
