@@ -6,7 +6,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      ontologyIRI="https://raw.githubusercontent.com/ProjetoS2C2Redes/S2C2-TestReferenceFiles/main/owlBase03112023.owl">
-    <Prefix name="" IRI="https://raw.githubusercontent.com/ProjetoS2C2Redes/S2C2-TestReferenceFiles/main/owlBase03112023.owl#"/>
+    <Prefix name="owlBase" IRI="https://raw.githubusercontent.com/ProjetoS2C2Redes/S2C2-TestReferenceFiles/main/owlBase03112023.owl#"/>
     <Prefix name="p0" IRI="http://example.com#"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
