@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <Ontology xmlns="http://www.w3.org/2002/07/owl#"
-     xml:base="https://purl.org/s2c2/qvas#"
+     xml:base="https://raw.githubusercontent.com/ProjetoS2C2Redes/S2C2-TestReferenceFiles/main/qvas.owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     ontologyIRI="https://purl.org/s2c2/qvas#"
-     versionIRI="https://purl.org/s2c2/qvas#/0.0.1">
-    <Prefix name="" IRI="https://purl.org/s2c2/qvas#"/>
+     ontologyIRI="https://raw.githubusercontent.com/ProjetoS2C2Redes/S2C2-TestReferenceFiles/main/qvas.owl#"
+     versionIRI="https://raw.githubusercontent.com/ProjetoS2C2Redes/S2C2-TestReferenceFiles/main/qvas.owl#/0.0.1">
+    <Prefix name="" IRI="https://raw.githubusercontent.com/ProjetoS2C2Redes/S2C2-TestReferenceFiles/main/qvas.owl#"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="gufo" IRI="http://purl.org/nemo/gufo#"/>
-    <Prefix name="qvas" IRI="https://purl.org/s2c2/qvas#"/>
+    <Prefix name="qvas" IRI="https://raw.githubusercontent.com/ProjetoS2C2Redes/S2C2-TestReferenceFiles/main/qvas.owl#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Import>http://purl.org/nemo/gufo#/1.0.0</Import>
     <Declaration>
