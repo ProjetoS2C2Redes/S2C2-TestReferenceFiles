@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <Ontology xmlns="http://www.w3.org/2002/07/owl#"
-     xml:base="https://purl.org/s2c2/hint#"
+     xml:base="https://raw.githubusercontent.com/ProjetoS2C2Redes/S2C2-TestReferenceFiles/main/hint.owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     ontologyIRI="https://purl.org/s2c2/hint#"
-     versionIRI="https://purl.org/s2c2/hint#/0.0.3">
-    <Prefix name="" IRI="https://purl.org/s2c2/hint#"/>
+     ontologyIRI="https://raw.githubusercontent.com/ProjetoS2C2Redes/S2C2-TestReferenceFiles/main/hint.owl#"
+     versionIRI="https://raw.githubusercontent.com/ProjetoS2C2Redes/S2C2-TestReferenceFiles/main/hint.owl#/0.0.3">
+    <Prefix name="" IRI="https://raw.githubusercontent.com/ProjetoS2C2Redes/S2C2-TestReferenceFiles/main/hint.owl#"/>
     <Prefix name="dc" IRI="http://purl.org/dc/elements/1.1/"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="gufo" IRI="http://purl.org/nemo/gufo#"/>
-    <Prefix name="hint" IRI="https://purl.org/s2c2/hint#"/>
+    <Prefix name="hint" IRI="https://raw.githubusercontent.com/ProjetoS2C2Redes/S2C2-TestReferenceFiles/main/hint.owl#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Prefix name="vann" IRI="http://purl.org/vocab/vann/"/>
     <Prefix name="terms" IRI="http://purl.org/dc/terms/"/>
